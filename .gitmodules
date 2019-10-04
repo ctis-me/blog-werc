@@ -1,0 +1,3 @@
+[submodule "sites/blog.ctis.me"]
+	path = sites/blog.ctis.me
+	url = git@github.com:ctis-me/blog.git
